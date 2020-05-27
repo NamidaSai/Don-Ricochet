@@ -1,2 +1,2 @@
-# Don Richochet
+# Don Ricochet
  RPG Game
