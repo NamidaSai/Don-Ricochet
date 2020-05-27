@@ -9,6 +9,5 @@ public class FollowCamera : MonoBehaviour
     void LateUpdate()
     {
         transform.position = target.position;
-        
     }
 }
