@@ -21,7 +21,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: f91a1450e0312422892255c5a3b83798, type: 2}
+  m_Motion: {fileID: 7400000, guid: 681394a7907a64eebbdbd0b90c65c89e, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -68,13 +68,13 @@ AnimatorController:
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: attack
     m_Type: 9
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   m_AnimatorLayers:
   - serializedVersion: 5
     m_Name: Base Layer
@@ -97,7 +97,7 @@ BlendTree:
   m_Name: Blend Tree
   m_Childs:
   - serializedVersion: 2
-    m_Motion: {fileID: 7400000, guid: 51900b21937764dfca10e0797a821d77, type: 2}
+    m_Motion: {fileID: 7400000, guid: e2bc4f613e11b44fe9e6a8a9e1032918, type: 2}
     m_Threshold: 0
     m_Position: {x: 0, y: 0}
     m_TimeScale: 1
@@ -105,16 +105,16 @@ BlendTree:
     m_DirectBlendParameter: Blend
     m_Mirror: 0
   - serializedVersion: 2
-    m_Motion: {fileID: 7400000, guid: f3b2a3ebcf50d48d9937017cee7fa7c7, type: 2}
-    m_Threshold: 3
+    m_Motion: {fileID: 7400000, guid: ec0638f7ea7bc47cd962becb79e322ac, type: 2}
+    m_Threshold: 2.101
     m_Position: {x: 0, y: 0}
     m_TimeScale: 1
     m_CycleOffset: 0
     m_DirectBlendParameter: Blend
     m_Mirror: 0
   - serializedVersion: 2
-    m_Motion: {fileID: 7400000, guid: dba4ff729a20a49eaac1b3712d5088bf, type: 2}
-    m_Threshold: 7
+    m_Motion: {fileID: 7400000, guid: 881c2ab54a9104d23b36cdf239cead37, type: 2}
+    m_Threshold: 4.156
     m_Position: {x: 0, y: 0}
     m_TimeScale: 1
     m_CycleOffset: 0
@@ -123,7 +123,7 @@ BlendTree:
   m_BlendParameter: forwardSpeed
   m_BlendParameterY: Blend
   m_MinThreshold: 0
-  m_MaxThreshold: 7
+  m_MaxThreshold: 4.156
   m_UseAutomaticThresholds: 0
   m_NormalizedBlendValues: 0
   m_BlendType: 0
