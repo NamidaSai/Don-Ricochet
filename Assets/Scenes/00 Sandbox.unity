@@ -3131,10 +3131,15 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 3725046201017881849, guid: 0355118ad3e1d4291bc99a4e8793e113,
+        type: 3}
+      propertyPath: weaponRange
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 3997642811721094652, guid: 0355118ad3e1d4291bc99a4e8793e113,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 9.07
+      value: 11.03
       objectReference: {fileID: 0}
     - target: {fileID: 3997642811721094652, guid: 0355118ad3e1d4291bc99a4e8793e113,
         type: 3}
@@ -3144,7 +3149,7 @@ PrefabInstance:
     - target: {fileID: 3997642811721094652, guid: 0355118ad3e1d4291bc99a4e8793e113,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -15.15
+      value: 1.43
       objectReference: {fileID: 0}
     - target: {fileID: 3997642811721094652, guid: 0355118ad3e1d4291bc99a4e8793e113,
         type: 3}
@@ -3274,7 +3279,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2049401641}
   m_LocalRotation: {x: -0.13376023, y: 0.8597157, z: -0.4008919, w: -0.2868498}
-  m_LocalPosition: {x: 0, y: 8.42, z: 0}
+  m_LocalPosition: {x: 0, y: 18.69, z: -1.36}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}

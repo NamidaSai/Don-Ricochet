@@ -76,7 +76,7 @@ NavMeshAgent:
   m_GameObject: {fileID: 1538687826858496144}
   m_Enabled: 1
   m_AgentTypeID: 0
-  m_Radius: 0.7
+  m_Radius: 0.5
   m_Speed: 4.156
   m_Acceleration: 100
   avoidancePriority: 50
@@ -101,7 +101,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d0e2e3118aa5e4f2fbfa11451a92dbd8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  weaponRange: 3
+  weaponRange: 2
   timeBetweenAttacks: 1
   weaponDamage: 5
 --- !u!114 &3470415333413319592
@@ -128,4 +128,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c9235dc8946b24723af1c78096bbe9c7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 100
+  healthPoints: 100
