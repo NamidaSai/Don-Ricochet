@@ -58,7 +58,7 @@ PrefabInstance:
     - target: {fileID: -2613676093015139732, guid: b1f730a81769c44938e8d24657acd472,
         type: 3}
       propertyPath: healthPoints
-      value: 10
+      value: 40
       objectReference: {fileID: 0}
     - target: {fileID: 1846702799, guid: b1f730a81769c44938e8d24657acd472, type: 3}
       propertyPath: m_Avatar
@@ -141,6 +141,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.z
       value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2867001349769913222, guid: b1f730a81769c44938e8d24657acd472,
+        type: 3}
+      propertyPath: weaponDamage
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b1f730a81769c44938e8d24657acd472, type: 3}
