@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 6f2d9bc7eb21b33458adc797b065969b
-timeCreated: 1530679714
+guid: 6969e5c163acc1648b6b9851123655a2
+timeCreated: 1523616862
 licenseType: Store
 ModelImporter:
   serializedVersion: 19
@@ -14,7 +14,7 @@ ModelImporter:
   materials:
     importMaterials: 1
     materialName: 1
-    materialSearch: 2
+    materialSearch: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0

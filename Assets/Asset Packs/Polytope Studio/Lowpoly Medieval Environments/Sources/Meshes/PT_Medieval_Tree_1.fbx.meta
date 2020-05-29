@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: fab0918501d63734e9a19b64c51761ac
-timeCreated: 1530679604
+guid: a2db1f3de9e989d48834dab50831c02d
+timeCreated: 1527654137
 licenseType: Store
 ModelImporter:
   serializedVersion: 19
@@ -10,11 +10,12 @@ ModelImporter:
     2300000: //RootNode
     3300000: //RootNode
     4300000: PT_Medieval_Tree_1
+    6400000: //RootNode
     9500000: //RootNode
   materials:
     importMaterials: 1
     materialName: 1
-    materialSearch: 2
+    materialSearch: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -39,7 +40,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
