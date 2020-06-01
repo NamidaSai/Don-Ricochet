@@ -105,5 +105,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fc6cafb3b91f14914af0261f8f234b35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneToLoad: 0
+  sceneToLoad: 1
   spawnPoint: {fileID: 666379050}
