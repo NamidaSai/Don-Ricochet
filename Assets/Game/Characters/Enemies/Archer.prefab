@@ -98,6 +98,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Archer
       objectReference: {fileID: 0}
+    - target: {fileID: 8530029902850315907, guid: d017594d826be4d6db4ce44fb85250ac,
+        type: 3}
+      propertyPath: healthPoints
+      value: 60
+      objectReference: {fileID: 0}
     - target: {fileID: 9052778652128862358, guid: d017594d826be4d6db4ce44fb85250ac,
         type: 3}
       propertyPath: m_IsActive
