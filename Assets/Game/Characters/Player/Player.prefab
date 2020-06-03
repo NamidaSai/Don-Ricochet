@@ -12,7 +12,7 @@ Rigidbody:
   m_Drag: 0
   m_AngularDrag: 0.05
   m_UseGravity: 0
-  m_IsKinematic: 0
+  m_IsKinematic: 1
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
@@ -167,7 +167,7 @@ PrefabInstance:
         type: 3}
       propertyPath: defaultWeapon
       value: 
-      objectReference: {fileID: 11400000, guid: ec0a118990bbe4e7fb462f4de87aca64,
+      objectReference: {fileID: 11400000, guid: 4e9a3a9a7bc4a45e9b57bb7cc5c92c92,
         type: 2}
     - target: {fileID: 2867001349769913222, guid: b1f730a81769c44938e8d24657acd472,
         type: 3}

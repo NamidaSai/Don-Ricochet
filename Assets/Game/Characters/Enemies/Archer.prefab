@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -7575798620250680027, guid: d017594d826be4d6db4ce44fb85250ac,
+        type: 3}
+      propertyPath: m_IsKinematic
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: -3960318402909619821, guid: d017594d826be4d6db4ce44fb85250ac,
         type: 3}
       propertyPath: chaseDistance
