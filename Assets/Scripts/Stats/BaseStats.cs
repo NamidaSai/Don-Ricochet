@@ -13,12 +13,15 @@ namespace RPG.Stats
 
         public float GetStat(Stat stat)
         {
-            return progression.GetStat(stat, characterClass, startingLevel);
+            return progression.GetStat(stat, characterClass, GetLevel());
         }
 
         public int GetLevel()
         {
-            float currentXP = GetComponent<Experience>().GetPoints();
+            Experience experience = GetComponent<Experience>();
+            if (experience == null) { return startingLevel;}
+
+            float currentXP = experience.GetPoints();
             int penultimateLevel = progression.GetLevels(Stat.ExperienceToLevelUp, characterClass);
 
             for (int level = 1; level <= penultimateLevel; level++)
