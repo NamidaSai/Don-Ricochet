@@ -80,7 +80,7 @@ namespace RPG.Resources
 
         private void RegenerateHealth()
         {
-            float regenHealthPoints = baseStats.GetStat(Stat.Health) * (regenerationPercentage * 100);
+            float regenHealthPoints = baseStats.GetStat(Stat.Health) * (regenerationPercentage / 100);
             healthPoints = Mathf.Max(healthPoints, regenHealthPoints);
         }
 
