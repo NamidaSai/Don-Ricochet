@@ -1717,6 +1717,11 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6498656120771534547, guid: d017594d826be4d6db4ce44fb85250ac,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d017594d826be4d6db4ce44fb85250ac, type: 3}
 --- !u!4 &1790341602 stripped
@@ -1843,6 +1848,11 @@ PrefabInstance:
       value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 4830757086490880039, guid: d017594d826be4d6db4ce44fb85250ac,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6498656120771534547, guid: d017594d826be4d6db4ce44fb85250ac,
         type: 3}
       propertyPath: m_LocalPosition.z
       value: 0
@@ -1976,6 +1986,11 @@ PrefabInstance:
       value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 5451899502110921152, guid: 192cc808ce16c437e88aa31a8a4c9453,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5948304032380446516, guid: 192cc808ce16c437e88aa31a8a4c9453,
         type: 3}
       propertyPath: m_LocalPosition.z
       value: 0
